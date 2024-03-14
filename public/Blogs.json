@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover_pic": "https://i.ibb.co/sCQt4wH/blue-workplace-with-laptop-fruits-black-tea-cup-top-view-flat-lay.jpg",
+      "title": "The Art of Programming",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/RHxZPQW/portrait-thinking-young-readhead-man-white-shirt-sitting-wooden-table-with-pen-his-mouth.jpg",
+      "postingDate": "2024-03-14",
+      "reading_time": 15,
+      "hashtags": ["programming", "coding", "technology"]
+    },
+    {
+      "id": 2,
+      "cover_pic": "https://i.ibb.co/q5pLv6k/biscuits-coffee-cup-yellow-background.jpg",
+      "title": "Exploring the Universe",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/0B2r2C0/portrait-young-bearded-man-reading-book.jpg",
+      "postingDate": "2024-03-14",
+      "reading_time": 20,
+      "hashtags": ["space", "cosmology", "science"]
+    },
+    {
+      "id": 3,
+      "cover_pic": "https://i.ibb.co/XW9Bd4N/high-angle-plant-notebook-frame.jpg",
+      "title": "Healthy Eating Habits",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/XXQfFwt/smiling-female-student-doing-homework-desk.jpg",
+      "postingDate": "2024-03-14",
+      "reading_time": 10,
+      "hashtags": ["health", "nutrition", "food"]
+    },
+    {
+      "id": 4,
+      "cover_pic": "https://i.ibb.co/S5C1cqL/flat-lay-workstation-with-cup-tea-copy-space.jpg",
+      "title": "Traveling Through Europe",
+      "author": "Mark Davis",
+      "author_img": "https://i.ibb.co/qBTwfyQ/pretty-curly-young-woman-writing-notes-startup-project.jpg",
+      "postingDate": "2024-03-14",
+      "reading_time": 25,
+      "hashtags": ["travel", "Europe", "adventure"]
+    }
+  ]
+  
